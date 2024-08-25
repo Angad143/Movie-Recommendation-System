@@ -7,7 +7,7 @@ __pycache__/
 
 Movie_Recommender_System/movies_dict.pkl
 Movie_Recommender_System/similarity.pkl
-Movie_Recommender_System/url.txt.pkl
+Movie_Recommender_System/url.txt
 
 ####################################
 
