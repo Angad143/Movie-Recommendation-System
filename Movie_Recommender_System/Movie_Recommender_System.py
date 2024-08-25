@@ -7,7 +7,7 @@ import requests
 # Function to Fetch Movie Poster
 def fetch_poster(movie_id):
     # Construct the URL for the API request to fetch movie details, including the poster
-    url = "https://api.themoviedb.org/3/movie/{}?api_key=82fce124192ef55d4a05842fcbdc038b".format(movie_id)
+    url = ""
     # Send a GET request to the URL
     response = requests.get(url)
     # Parse the response JSON to a Python dictionary
