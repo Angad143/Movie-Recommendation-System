@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+####################################
+
+Movie_Recommender_System/movies_dict.pkl
+Movie_Recommender_System/similarity.pkl
+
+####################################
+
+
 # C extensions
 *.so
 
