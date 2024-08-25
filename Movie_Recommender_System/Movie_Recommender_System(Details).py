@@ -7,7 +7,7 @@ import requests
 # Function to Fetch Movie Poster and Homepage
 def fetch_poster(movie_id):
     # Construct the URL for the API request to fetch movie details, including the poster and homepage
-    url = "url"
+    url = "here we have to pass api url"
     # Send a GET request to the URL
     response = requests.get(url)
     # Parse the response JSON to a Python dictionary
